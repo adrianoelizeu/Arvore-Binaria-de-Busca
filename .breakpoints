@@ -1,0 +1,52 @@
+{
+  "files": {
+    "arvore.c": [
+      {
+        "id": "216ffbf7-8968-412d-8fb6-23d251eaf06b",
+        "line": 88,
+        "version": 5175,
+        "index": 1709
+      },
+      {
+        "id": "01f2138a-eeff-41a1-9d47-b1147e4eb6d8",
+        "line": 118,
+        "version": 5175,
+        "index": 2116
+      }
+    ],
+    "arvore.h": [
+      {
+        "id": "2f9dcf5b-7338-4b99-9335-f109ec1e88b9",
+        "line": 1,
+        "version": 454,
+        "index": 0
+      },
+      {
+        "id": "47b76703-c228-43ad-91ef-3c177ccf7f40",
+        "line": 1,
+        "version": 454,
+        "index": 0
+      }
+    ],
+    "main.c": [
+      {
+        "id": "88e5e1f4-a09c-4800-9580-526fed321ccd",
+        "line": 5,
+        "version": 6719,
+        "index": 60
+      },
+      {
+        "id": "343fd71a-df30-463b-85f7-0de96153070c",
+        "line": 31,
+        "version": 6719,
+        "index": 358
+      },
+      {
+        "id": "40cd8433-7d12-417c-b72a-5a549d8fd7c8",
+        "line": 31,
+        "version": 6719,
+        "index": 358
+      }
+    ]
+  }
+}
